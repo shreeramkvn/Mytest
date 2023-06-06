@@ -1,0 +1,90 @@
+Question 1. What is the purpose of the @Autowired annotation in Spring?
+-> a) It is used to inject dependencies into a class.
+
+Question 2. Which of the following annotations is used to enable Spring's declarative transaction management?
+-> d) @EnableTransactions
+
+Question 3. Which of the following annotations is used to define the scope of a bean in Spring?
+-> c) @Bean
+
+Question 4. In Spring MVC, which annotation is used to map a URL pattern to a controller method?
+-> b) @GetMapping
+
+Question 5. Which interface is used to handle exceptions in Spring MVC?
+-> b) HandlerExceptionResolver
+
+Question 6. What is the purpose of the @Qualifier annotation in Spring?
+-> c) It is used to resolve ambiguity when multiple beans of the same type are present.
+
+Question 7. Which of the following is NOT a valid scope for a Spring bean?
+-> a) singleton
+
+Question 8. In Spring Data JPA, which annotation is used to define a query method?
+-> b) @NamedQuery
+
+Question 9. Which interface is used to implement batch processing in Spring?
+-> b) BatchOperations
+
+Question 10. Which Spring module provides support for asynchronous programming?
+-> d) Spring Integration
+
+Question 11. Which of the following annotations is used to define a class as a Spring bean?
+-> d) All of the above
+
+Question 12. What is the purpose of the @Autowired annotation in Spring?
+-> d) It is used to enable Spring Boot auto-configuration.
+
+Question 13. Which of the following is a valid way to configure a Spring bean using Java configuration?
+-> c) @Autowired
+
+Question 14. What is the purpose of the @Qualifier annotation in Spring?
+-> a) It is used to resolve bean dependencies when multiple beans of the same type are present.
+
+Queston 15. What is the purpose of the @Transactional annotation in Spring?
+-> b) It is used to enable transaction management for a specific method or class.
+
+Question 16. Which of the following is NOT a valid stereotype annotation in Spring?
+-> c) @Service
+
+Question 17. In Spring MVC, what is the purpose of the @RequestMapping annotation?
+-> a) It is used to map a URL pattern to a controller method.
+
+Question 18. What is the purpose of the Spring Boot Actuator library?
+-> a) It provides health monitoring and management endpoints for a Spring Boot application.
+
+Question 19. Which of the following is NOT a core module of the Spring Framework?
+-> c) Spring MVC
+
+Question 20. What is the purpose of the Spring Data JPA module?
+-> b) It enables integration with a relational database using the Java Persistence API (JPA).
+
+Question 21. What is the purpose of the @Qualifier annotation in Spring?
+-> a) It is used to specify the primary bean when multiple beans of the same type are present.
+
+Question 22. Which of the following statements about Spring AOP (Aspect-Oriented Programming) is true?
+-> d) It is a programming paradigm used to modularize cross-cutting concerns in applications.
+
+Question 23. What is the purpose of the @Transactional annotation in Spring?
+-> b) It is used to mark a method as transactional, allowing for database transactions to be managed automatically.
+
+Question 24. Which of the following statements about Spring Boot Actuator is true?
+-> b) It is used to monitor and manage Spring Boot applications by providing production-ready features.
+
+Question 25. In Spring MVC, which component is responsible for mapping requests to appropriate controller methods?
+-> c) Handler Mapping
+
+Question 26. What is the purpose of the @PathVariable annotation in Spring MVC?
+-> b) It is used to bind a method parameter to a URI template variable.
+
+Question 27. Which of the following annotations is used to enable Spring Data JPA repositories in a Spring Boot application?
+-> c) @EnableJpaRepositories
+
+Question 28. What is the purpose of the @Value annotation in Spring?
+-> c) It is used to inject property values from configuration files.
+
+Question 29. Which of the following annotations is used to configure a scheduled task in Spring?
+-> a) @Scheduled
+	
+Question 30. What is the purpose of the @ModelAttribute annotation in Spring MVC?
+-> a) It is used to map request parameters to method parameters or model attributes.
+
